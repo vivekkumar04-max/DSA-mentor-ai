@@ -14,7 +14,7 @@ C++ through step-by-step explanation.
 <br>
 <h2><b>Solution</b></h2>
   <h3>DSA Mentor AI:</h3>
-    1. Encourage students to think before giving answer
+    1. Encourage students to think before giving answer<br>
     2. Then explains the brute force approach
     3.  provides code in C++ by default
     4. Explains time and space complexity
