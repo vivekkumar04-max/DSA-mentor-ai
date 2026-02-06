@@ -28,7 +28,7 @@ C++ through step-by-step explanation.
     5. Cloud-hosted AI via Tambo<br>
 <br>
 <h2><b>Live Demo</b></h2>
-<h3>Deployed link : </h3>
+<h3>Deployed link : https://dsa-mentor-ai-taupe.vercel.app/chat</h3>
 <br>
 <h2><b>Github Repository</b></h2>
 <h3>Repo link : https://github.com/vivekkumar04-max/DSA-mentor-ai</h3>
