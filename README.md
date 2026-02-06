@@ -34,8 +34,9 @@ C++ through step-by-step explanation.
 <h3>Repo link : https://github.com/vivekkumar04-max/DSA-mentor-ai</h3>
 <br>
 <h2><b>Youtube Demo</b></h2>
-<h3>Youtube link : </h3>
+<h3>Youtube link : https://youtu.be/CJaDrQX5dBU?si=Aumf9rLYiiGOl6TJ</h3>
 <br>
 <h1><b>Hackathon Submission</b></h1>
 <h2>Build for WeMakeDevs Hackathon</h2>
-<h3>This project demonstrates how AI cann be used to build structured learning assistants            for DSA preparation</h3>
+<h3>This project demonstrates how AI cann be used to build structured learning assistants 
+  for DSA preparation</h3>
