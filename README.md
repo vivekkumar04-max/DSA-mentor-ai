@@ -29,13 +29,13 @@ C++ through step-by-step explanation.
 <br>
 <h2><b>Live Demo</b></h2>
 <h3>Deployed link : </h3>
-
+<br>
 <h2><b>Github Repository</b></h2>
 <h3>Repo link : https://github.com/vivekkumar04-max/DSA-mentor-ai</h3>
-
+<br>
 <h2><b>Youtube Demo</b></h2>
 <h3>Youtube link : </h3>
-
+<br>
 <h1><b>Hackathon Submission</b></h1>
 <h2>Build for WeMakeDevs Hackathon</h2>
 <h3>This project demonstrates how AI cann be used to build structured learning assistants            for DSA preparation</h3>
