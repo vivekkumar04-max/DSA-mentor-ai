@@ -7,25 +7,25 @@ C++ through step-by-step explanation.
 <br>
 <h2><b>Problem statement</b></h2>
 <h3>Student from tier-2 and tier-3 colleges offten struggle with:</h3>
-  -> Structured DSA preparation
-  -> thinking about the intution
-  -> Understanding time & space complexity
-  -> Practicing optimized solutions
+  - Structured DSA preparation
+  - thinking about the intution
+  - Understanding time & space complexity
+  - Practicing optimized solutions
 <br>
 <h2><b>Solution</b></h2>
   <h3>DSA Mentor AI:</h3>
-    -> Encourage students to think before giving answer
-    -> Then explains the brute force approach
-    -> provides code in C++ by default
-    -> Explains time and space complexity
-    -> AI powered by Tambo Cloud LLM integration
+    - Encourage students to think before giving answer
+    - Then explains the brute force approach
+    - provides code in C++ by default
+    - Explains time and space complexity
+    - AI powered by Tambo Cloud LLM integration
 <br>
  <h2><b>Features</b></h2>   
-    -> DSA focused Ai mentor
-    -> C++ default solutions
-    -> Time and Space complexity explanation
-    -> Step-by-step problem solution
-    -> Cloud-hosted AI via Tambo
+    - DSA focused Ai mentor
+    - C++ default solutions
+    - Time and Space complexity explanation
+    - Step-by-step problem solution
+    - Cloud-hosted AI via Tambo
 <br>
 <h2><b>Live Demo</b></h2>
 <h3>Deployed link : </h3>
